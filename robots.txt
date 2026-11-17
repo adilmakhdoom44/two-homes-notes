@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adilmakhdoom44.github.io/two-homes-notes/sitemap.xml
